@@ -16,7 +16,7 @@ class _ComunidadScreenState extends State<ComunidadScreen> {
     if (comentarioController.text.isNotEmpty) {
       setState(() {
         comentarios.add(comentarioController.text);
-        comentarioController.clear(); // Limpiar el campo de texto
+        comentarioController.clear(); 
       });
     }
   }
