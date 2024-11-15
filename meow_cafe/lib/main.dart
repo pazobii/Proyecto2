@@ -1,3 +1,4 @@
+import 'dart:async';
 import 'package:flutter/material.dart';
 import 'Pantallas/main_screen.dart';
 import 'Pantallas/splashscreen.dart'; 
